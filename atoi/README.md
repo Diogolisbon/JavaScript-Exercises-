@@ -1,0 +1,1 @@
+##atoi is a function in the C programming language that converts a string into an integer numerical representation. atoi stands for ASCII to integer. It is included in the C standard library header file stdlib.
